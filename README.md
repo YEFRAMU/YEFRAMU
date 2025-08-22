@@ -4,11 +4,11 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=YEFRAMU&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YEFRAMU&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=YEFRAMU&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+</p>
 
 
 
